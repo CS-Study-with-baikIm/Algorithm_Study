@@ -8,14 +8,32 @@
 
 /* Begin PBXFileReference section */
 		F666EB492BC7B92B006D1D93 /* 겹치는선분의길이.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "겹치는선분의길이.swift"; sourceTree = "<group>"; };
+		F666EB4C2BC8F47D006D1D93 /* 추억점수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "추억점수.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		F666EB422BC7B8F2006D1D93 = {
 			isa = PBXGroup;
 			children = (
+				F666EB4B2BC8F472006D1D93 /* lv1 */,
+				F666EB4A2BC8F469006D1D93 /* lv0 */,
+			);
+			sourceTree = "<group>";
+		};
+		F666EB4A2BC8F469006D1D93 /* lv0 */ = {
+			isa = PBXGroup;
+			children = (
 				F666EB492BC7B92B006D1D93 /* 겹치는선분의길이.swift */,
 			);
+			path = lv0;
+			sourceTree = "<group>";
+		};
+		F666EB4B2BC8F472006D1D93 /* lv1 */ = {
+			isa = PBXGroup;
+			children = (
+				F666EB4C2BC8F47D006D1D93 /* 추억점수.swift */,
+			);
+			path = lv1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
