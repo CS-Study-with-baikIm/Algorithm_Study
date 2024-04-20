@@ -10,8 +10,6 @@ class Solution {
 
         String noP = s.toLowerCase().replace("p", "");
         String noY = s.toLowerCase().replace("y", "");
-
         return noP.length() == noY.length() ? true : false;
-
     }
 }
