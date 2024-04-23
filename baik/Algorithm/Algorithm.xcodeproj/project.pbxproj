@@ -18,6 +18,8 @@
 		F6736FCE2BD258AA00675B76 /* 푸드파이트 대회.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "푸드파이트 대회.swift"; sourceTree = "<group>"; };
 		F6736FCF2BD38B8500675B76 /* 햄버거 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "햄버거 만들기.swift"; sourceTree = "<group>"; };
 		F6736FD22BD575F100675B76 /* 키패드 누르기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "키패드 누르기.swift"; sourceTree = "<group>"; };
+		F6736FD32BD63AD000675B76 /* 덧칠하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "덧칠하기.swift"; sourceTree = "<group>"; };
+		F6736FD42BD788F200675B76 /* 둘만의 암호.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "둘만의 암호.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -50,6 +52,8 @@
 				F6736FCE2BD258AA00675B76 /* 푸드파이트 대회.swift */,
 				F6736FCF2BD38B8500675B76 /* 햄버거 만들기.swift */,
 				F6736FD22BD575F100675B76 /* 키패드 누르기.swift */,
+				F6736FD32BD63AD000675B76 /* 덧칠하기.swift */,
+				F6736FD42BD788F200675B76 /* 둘만의 암호.swift */,
 			);
 			path = lv1;
 			sourceTree = "<group>";
