@@ -10,3 +10,5 @@ func solution(_ name:[String], _ yearning:[Int], _ photo:[[String]]) -> [Int] {
  
  dictionary 와 map, reduce를 사용하여 문제 해결
  */
+
+var ans = Array()
