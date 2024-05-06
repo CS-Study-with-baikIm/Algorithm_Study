@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		F60D9C682BE8857700660A12 /* 트리의 지름.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "트리의 지름.swift"; sourceTree = "<group>"; };
 		F620C1482BE505D300DA8221 /* 가장 많이 받은 선물.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "가장 많이 받은 선물.swift"; sourceTree = "<group>"; };
 		F620C1492BE6609A00DA8221 /* 개인정보 수집 유효기간.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "개인정보 수집 유효기간.swift"; sourceTree = "<group>"; };
 		F620C14A2BE728C600DA8221 /* 다음 큰 숫자.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "다음 큰 숫자.swift"; sourceTree = "<group>"; };
@@ -35,9 +36,18 @@
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
+		F620C14B2BE8854900DA8221 /* baekjoon */ = {
+			isa = PBXGroup;
+			children = (
+				F60D9C682BE8857700660A12 /* 트리의 지름.swift */,
+			);
+			path = baekjoon;
+			sourceTree = "<group>";
+		};
 		F666EB422BC7B8F2006D1D93 = {
 			isa = PBXGroup;
 			children = (
+				F620C14B2BE8854900DA8221 /* baekjoon */,
 				F69B13522BE3879100EB08B2 /* lv3 */,
 				F69B131D2BDD566700EB08B2 /* lv2 */,
 				F666EB4B2BC8F472006D1D93 /* lv1 */,
