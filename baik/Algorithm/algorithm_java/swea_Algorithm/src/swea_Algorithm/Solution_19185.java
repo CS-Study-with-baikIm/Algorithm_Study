@@ -46,6 +46,8 @@ public class Solution_19185 {
 			}
 			System.out.println();
 		}
+		sc.close();	
+		
 	}
-
 }
+
