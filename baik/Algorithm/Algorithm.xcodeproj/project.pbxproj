@@ -18,6 +18,8 @@
 		F666EB4F2BCD6D13006D1D93 /* 최소직사각형.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "최소직사각형.swift"; sourceTree = "<group>"; };
 		F666EB502BCEC217006D1D93 /* 기사단원의 무기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "기사단원의 무기.swift"; sourceTree = "<group>"; };
 		F6713D392BFB173800B6FF41 /* 숫자 변환하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "숫자 변환하기.swift"; sourceTree = "<group>"; };
+		F6713D3A2BFC932600B6FF41 /* 혼자서 하는 틱택토.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "혼자서 하는 틱택토.swift"; sourceTree = "<group>"; };
+		F6713D3B2BFDCB7900B6FF41 /* 마법의 엘레베이터.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "마법의 엘레베이터.swift"; sourceTree = "<group>"; };
 		F6736FCC2BCFCDF400675B76 /* 체육복.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "체육복.swift"; sourceTree = "<group>"; };
 		F6736FCD2BD0147E00675B76 /* 3진법 뒤집기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3진법 뒤집기.swift"; sourceTree = "<group>"; };
 		F6736FCE2BD258AA00675B76 /* 푸드파이트 대회.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "푸드파이트 대회.swift"; sourceTree = "<group>"; };
@@ -37,6 +39,13 @@
 		F69B13502BE0ABAC00EB08B2 /* 신고 결과 받기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "신고 결과 받기.swift"; sourceTree = "<group>"; };
 		F69B13512BE1E24E00EB08B2 /* 신규 아이디 추천.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "신규 아이디 추천.swift"; sourceTree = "<group>"; };
 		F69B13532BE3879C00EB08B2 /* 네트워크.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "네트워크.swift"; sourceTree = "<group>"; };
+		F6DB41AE2C03067400292122 /* 시소 짝꿍.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "시소 짝꿍.swift"; sourceTree = "<group>"; };
+		F6DB41AF2C04D75500292122 /* 큰 수 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "큰 수 만들기.swift"; sourceTree = "<group>"; };
+		F6DB41B02C05FB4C00292122 /* 무인도 여행.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "무인도 여행.swift"; sourceTree = "<group>"; };
+		F6DB41B12C071BA000292122 /* 귤 고르기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "귤 고르기.swift"; sourceTree = "<group>"; };
+		F6E0CB742BFF8DE900C07145 /* 광물캐기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "광물캐기.swift"; sourceTree = "<group>"; };
+		F6E0CB752C0079AE00C07145 /* 뒤에 있는 큰 수 찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "뒤에 있는 큰 수 찾기.swift"; sourceTree = "<group>"; };
+		F6E0CB762C02060300C07145 /* 호텔 대실.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "호텔 대실.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -104,6 +113,15 @@
 				F69B13222BDD56B700EB08B2 /* 두 원 사이에 정수 쌍.swift */,
 				F620C14A2BE728C600DA8221 /* 다음 큰 숫자.swift */,
 				F6713D392BFB173800B6FF41 /* 숫자 변환하기.swift */,
+				F6713D3A2BFC932600B6FF41 /* 혼자서 하는 틱택토.swift */,
+				F6713D3B2BFDCB7900B6FF41 /* 마법의 엘레베이터.swift */,
+				F6E0CB742BFF8DE900C07145 /* 광물캐기.swift */,
+				F6E0CB752C0079AE00C07145 /* 뒤에 있는 큰 수 찾기.swift */,
+				F6E0CB762C02060300C07145 /* 호텔 대실.swift */,
+				F6DB41AE2C03067400292122 /* 시소 짝꿍.swift */,
+				F6DB41AF2C04D75500292122 /* 큰 수 만들기.swift */,
+				F6DB41B02C05FB4C00292122 /* 무인도 여행.swift */,
+				F6DB41B12C071BA000292122 /* 귤 고르기.swift */,
 			);
 			path = lv2;
 			sourceTree = "<group>";
