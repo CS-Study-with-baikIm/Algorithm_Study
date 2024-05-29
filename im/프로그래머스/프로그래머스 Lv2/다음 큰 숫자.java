@@ -24,5 +24,6 @@ class Solution {
         int numLength = numBinary.replace("0", "").length();
 
         return (length == numLength);
+
     }
 }
