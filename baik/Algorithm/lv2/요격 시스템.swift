@@ -22,3 +22,4 @@ func solution(_ targets:[[Int]]) -> Int {
 
     return ans
 }
+
