@@ -14,11 +14,15 @@
 // 위 방식으로 재귀로 풀 경우 시간초과 발생
 
 func solution(_ n:Int) -> Int {
-  var fibonacci: [Int] = [0, 1]
+    var fibonacci: [Int] = [1, 2]
+    var i = 0
+    while fibonacci.count < n {
+        fibonacci.append((fibonacci[i] + fibonacci[i+1]) % 1234567)
+        i += 1
+    }
   
-  for i in 2...n {
-    fibonacci.append((fibonacci[i-2] + fibonacci[i-1]) % 1234567)
-  }
-  
-  return fibonacci[n]
+    return fibonacci[n-1]
 }
+
+
+// 멀리뛰기 알고리즘을 짜던중 n에 따라 피보나치로 증가함을 확인함
